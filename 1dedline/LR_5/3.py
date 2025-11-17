@@ -1,0 +1,5 @@
+fio = input("Введите свое фио через пробел: ")
+surname, name, Ot4estvo = fio.split()
+print (surname.capitalize())
+print (name.capitalize())
+print (Ot4estvo.capitalize())
